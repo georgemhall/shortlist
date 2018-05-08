@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortlistCalc", "ShortlistCalc\ShortlistCalc.csproj", "{32A9AF1A-4873-4C5E-8DFA-1F43C9ECF15E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeeksRuler", "WeeksRuler\WeeksRuler.csproj", "{71B90916-430E-4740-9D13-A0F392CAD512}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32A9AF1A-4873-4C5E-8DFA-1F43C9ECF15E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32A9AF1A-4873-4C5E-8DFA-1F43C9ECF15E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32A9AF1A-4873-4C5E-8DFA-1F43C9ECF15E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32A9AF1A-4873-4C5E-8DFA-1F43C9ECF15E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71B90916-430E-4740-9D13-A0F392CAD512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71B90916-430E-4740-9D13-A0F392CAD512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71B90916-430E-4740-9D13-A0F392CAD512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71B90916-430E-4740-9D13-A0F392CAD512}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
